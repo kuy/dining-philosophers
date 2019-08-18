@@ -1,6 +1,6 @@
 ## Dining Philosophers Problem
 
-That's it.
+That's it. [Looking for `async/await` with `async_std` version? Here.](https://github.com/kuy/dining-philosophers-aa)
 
 Ref: https://www.wikiwand.com/en/Dining_philosophers_problem
 
